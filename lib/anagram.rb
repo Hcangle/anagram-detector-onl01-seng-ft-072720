@@ -5,6 +5,6 @@ def initialize(word)
   @word = word 
 end 
 def match(some_words)
-  puts "Must find #{self.word} inside the following string: #{find anagram in this string}"
+  puts "Must find #{self.word} inside the following string: #{some_words}"
 
 end
