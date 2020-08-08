@@ -10,6 +10,7 @@ def match(some_words)
   if word.split("").sort == self.some_words.split("").sort 
   word
 end 
-
+end 
+end 
 
 end
