@@ -6,6 +6,6 @@ def initialize(word)
 end 
 def match(some_words)
   puts "Must find #{self.word} inside the following string: #{some_words}"
-  
+  some_words.find_all
 
 end
