@@ -5,5 +5,6 @@ def initialize(word)
   @word = word 
 end 
 def match(some_words)
+  puts 
 
 end
