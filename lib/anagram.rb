@@ -5,6 +5,6 @@ def initialize(word)
   @word = word 
 end 
 def match(some_words)
-  puts "Must find #{self."
+  puts "Must find #{self.word}"
 
 end
